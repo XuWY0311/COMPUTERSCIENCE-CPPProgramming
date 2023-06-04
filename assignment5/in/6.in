@@ -1,0 +1,20 @@
+size
+set key1 1
+set key2 3
+get key2
+set iii 100
+get iii
+set iii 101
+get iii
+set A 1
+set B 3
+set C 5
+set D 7
+set E 9
+set F 11
+set G 13
+contains G
+get G
+remove G
+contains G
+quit

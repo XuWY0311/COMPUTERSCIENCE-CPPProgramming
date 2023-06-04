@@ -1,0 +1,2 @@
+TGC matches TAACGGTACGTC at position 2
+TGC matches TAACGGTACGTC at position 7

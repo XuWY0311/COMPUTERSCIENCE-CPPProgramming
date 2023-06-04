@@ -1,0 +1,24 @@
+array.size(): 5
+
+array.get(): 0
+array.put(0, 0);
+array.get(): 0
+
+array.get(): 0
+array.put(1, 1);
+array.get(): 1
+
+array.get(): 0
+array.put(2, 2);
+array.get(): 2
+
+array.get(): 0
+array.put(3, 3);
+array.get(): 3
+
+array.get(): 0
+array.put(4, 4);
+array.get(): 4
+
+ERROR: Index range out of bounds!
+ERROR: Index range out of bounds!

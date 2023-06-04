@@ -1,0 +1,23 @@
+none
+size
+set A 1
+set B 3
+set C 5
+set D 7
+set E 9
+set F 11
+set G 13
+set H 13
+set I 17
+set J 19
+set K 21
+set L 23
+set M 25
+set N 27
+set O 29
+set P 31
+set Q 33
+contains Q
+contains R
+size
+quit

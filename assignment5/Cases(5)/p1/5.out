@@ -1,0 +1,20 @@
+pq.size() = 9
+i=0: pq.peek() = 2
+i=0: pq.dequeue() = 2
+i=1: pq.peek() = 1
+i=1: pq.dequeue() = 1
+i=2: pq.peek() = 0
+i=2: pq.dequeue() = 0
+i=3: pq.peek() = 5
+i=3: pq.dequeue() = 5
+i=4: pq.peek() = 4
+i=4: pq.dequeue() = 4
+i=5: pq.peek() = 3
+i=5: pq.dequeue() = 3
+i=6: pq.peek() = -1
+i=6: pq.dequeue() = -1
+i=7: pq.peek() = 7
+i=7: pq.dequeue() = 7
+i=8: pq.peek() = 6
+i=8: pq.dequeue() = 6
+pq.isEmpty(): true

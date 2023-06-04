@@ -1,0 +1,22 @@
+DFS at Portland ....
+Portland
+Seattle
+Boston
+New York
+Atlanta
+Dallas
+San Francisco
+Denver
+Chicago
+Los Angeles
+BFS at Portland ....
+Portland
+San Francisco
+Seattle
+Dallas
+Denver
+Boston
+Atlanta
+Los Angeles
+Chicago
+New York

@@ -1,0 +1,21 @@
+size
+set key1 1
+set key2 3
+get key2
+contains key3
+set key3 5
+set key4 7
+get key4
+contains key5
+get key5 9
+set key6 10
+get key6
+contains key7
+set key7 11
+set key8 22
+get key8
+contains key9
+set key9 33
+set key10 44
+clear
+quit

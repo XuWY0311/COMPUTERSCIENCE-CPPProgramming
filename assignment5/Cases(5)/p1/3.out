@@ -1,0 +1,12 @@
+pq.size() = 5
+i=0: pq.peek() = MAT1001
+i=0: pq.dequeue() = MAT1001
+i=1: pq.peek() = MAT1002
+i=1: pq.dequeue() = MAT1002
+i=2: pq.peek() = CSC1002
+i=2: pq.dequeue() = CSC1002
+i=3: pq.peek() = CSC3002
+i=3: pq.dequeue() = CSC3002
+i=4: pq.peek() = ENG2002
+i=4: pq.dequeue() = ENG2002
+pq.isEmpty(): true

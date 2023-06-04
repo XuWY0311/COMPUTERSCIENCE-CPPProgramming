@@ -1,0 +1,32 @@
+ a b c d e
+          ^
+ a b c d e
+        ^
+ a b c d e
+      ^
+ a b c e
+      ^
+ a b c x y z e
+            ^
+ a b c x y z e
+^
+ b c x y z e
+^
+ c x y z e
+^
+ u v w c x y z e
+      ^
+ u v w c x y z e
+                ^
+ u v w c x y z e o p q
+                      ^
+ u v w c x y z e o p q
+                    ^
+ u v w c x y z e o p q
+                  ^
+ u v w c x y z e o p q
+                      ^
+ u v w c x y z e o p q i j k
+                            ^
+ u v w c x y z e o p q i j k
+                            ^

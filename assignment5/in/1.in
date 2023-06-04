@@ -1,0 +1,8 @@
+isEmpty
+size
+set num 12
+get num
+contains num
+contains apple
+size
+quit

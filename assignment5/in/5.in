@@ -1,0 +1,10 @@
+size
+set key1 1
+set key2 3
+get key2
+set iii 100
+set iii 101
+get iii
+clear
+contains iii
+quit

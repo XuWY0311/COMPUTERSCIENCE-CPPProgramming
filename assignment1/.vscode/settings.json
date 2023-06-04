@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "istream": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment1",
+            "binaryPath": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment1/p1",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment1",
+            "binaryPath": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment1/p2",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment1",
+            "binaryPath": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment1/p3",
+            "binaryArgs": []
+        }
+    ]
+}

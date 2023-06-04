@@ -1,0 +1,16 @@
+size
+set A 1
+set B 3
+set C 5
+set D 7
+set E 9
+set F 10
+set a 11
+set b 22
+set c 33
+set d 44
+set e 55
+set f 66
+get a
+contains aa
+quit

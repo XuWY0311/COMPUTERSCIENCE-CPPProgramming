@@ -1,0 +1,25 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment2",
+            "binaryPath": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment2/p1",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment2",
+            "binaryPath": "/Users/a86139/Documents/Codes/VSCode/CSC3002/Assignments/assignment2/p3",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "string": "cpp",
+        "bitset": "cpp",
+        "iostream": "cpp",
+        "__locale": "cpp",
+        "chrono": "cpp",
+        "queue": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    }
+}

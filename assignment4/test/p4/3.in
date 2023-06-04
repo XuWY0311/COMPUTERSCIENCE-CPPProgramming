@@ -1,0 +1,4 @@
+cp.cpp *.cpp
+cp.cppp *.cpp
+cp.cp.cpp *.cpp
+cp.cppp *.cpp?

@@ -1,0 +1,9 @@
+Editor commands:
+  Iabc  Inserts the characters abc at the cursor position
+  F     Moves the cursor forward one character
+  B     Moves the cursor backward one character
+  D     Deletes the character after the cursor
+  J     Jumps to the beginning of the buffer
+  E     Jumps to the end of the buffer
+  H     Prints this message
+  Q     Exits from the editor program

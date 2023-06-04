@@ -1,2 +1,2 @@
-# Computer Science - CPP-Programming
+# CS-CPPProgramming
 Abstract Data Type, Programming Paradigms and Object-Oriented Programming
